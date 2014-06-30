@@ -45,6 +45,7 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem 'bower-rails'
+gem 'angular-rails-templates'
 gem "foreman"
 
 group :production, :staging do
